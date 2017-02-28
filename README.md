@@ -1,5 +1,7 @@
 # Ubersicht_zendesk_jg
 
+CURRENT VERSION: 1.2
+
 What you should edit to get it working:
 
 # 1. zendesk account and some tickets created.
